@@ -1,6 +1,15 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
 .class{
-    font-size: 30px;
+   font-size: 30px;
 }
 .class{
-    color: blue;
+    background: #000;
+}
+.text{
+   color:blue;
 }
